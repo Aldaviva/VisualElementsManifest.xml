@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <PackageId>VisualElementsManifest.xml</PackageId>
+    <Version>0.0.0</Version>
+    <Product>VisualElementsManifest.xml</Product>
+    <Copyright>2020 Ben Hutchison</Copyright>
+    <Title>VisualElementsManifest.xml</Title>
+    <Description>Editor for VisualElementsManifest XML files that style Start tiles for programs in Windows 8, 8.1, and 10</Description>
+    <Authors>Ben Hutchison</Authors>
+    <Company>Ben Hutchison</Company>
+    <PackageProjectUrl>https://github.com/Aldaviva/VisualElementsManifest.xml</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Aldaviva/VisualElementsManifest.xml.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>visualelementsmanifest start tile</PackageTags>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <IncludeSource>true</IncludeSource>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <NoWarn>1701,1702,1591</NoWarn>
+  </PropertyGroup>
+
+</Project>
