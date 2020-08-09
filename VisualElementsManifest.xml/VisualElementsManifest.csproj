@@ -9,7 +9,7 @@
     <Product>VisualElementsManifest.xml</Product>
     <Copyright>2020 Ben Hutchison</Copyright>
     <Title>VisualElementsManifest.xml</Title>
-    <Description>Editor for VisualElementsManifest XML files that style Start tiles for programs in Windows 8, 8.1, and 10</Description>
+    <Description>Read and write VisualElementsManifest XML files that define styles for programs' Start tiles in Windows ≥ 8.</Description>
     <Authors>Ben Hutchison</Authors>
     <Company>Ben Hutchison</Company>
     <PackageProjectUrl>https://github.com/Aldaviva/VisualElementsManifest.xml</PackageProjectUrl>
